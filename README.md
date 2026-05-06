@@ -11,6 +11,7 @@ This repository contains my daily practice of C++ concepts including:
 - Fibonacci
 - Arrays
 - STL containers
+- etc
 
 ## Goal
 To strengthen problem-solving and prepare for DSA.
